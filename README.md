@@ -83,6 +83,16 @@ medical_records
 - Most common medical condition
 - Insurance provider analysis
 - Top hospitals by total billing
+  
+## few sql queries
+<img width="432" height="667" alt="Screenshot 2026-07-23 224618" src="https://github.com/user-attachments/assets/655c9a01-a880-41a6-a91f-d32bd0797dad" />
+<img width="723" height="537" alt="Screenshot 2026-07-23 224742" src="https://github.com/user-attachments/assets/5f594fd8-17e3-4dba-8c76-f33a9dced856" />
+
+
+
+
+
+
 
 ## 📈 Skills Demonstrated
 - SQL Query Writing
