@@ -87,9 +87,7 @@ medical_records
 ## few sql queries
 <img width="432" height="667" alt="Screenshot 2026-07-23 224618" src="https://github.com/user-attachments/assets/655c9a01-a880-41a6-a91f-d32bd0797dad" />
 <img width="723" height="537" alt="Screenshot 2026-07-23 224742" src="https://github.com/user-attachments/assets/5f594fd8-17e3-4dba-8c76-f33a9dced856" />
-<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/efbf6dff-1f1e-4660-91f6-018ed39b43e1" />
-
-
+<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/7f73afb6-4098-4f9c-8420-06a245818b68" />
 
 
 
