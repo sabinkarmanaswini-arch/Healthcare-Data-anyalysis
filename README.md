@@ -7,7 +7,7 @@ This project analyzes healthcare data using **MySQL** to extract meaningful insi
 - Analyze patient demographics and medical records.
 - Practice SQL queries from basic to intermediate level.
 - Generate business insights using SQL.
-- Strengthen SQL skills for Data Analyst interviews.
+- Understand how analysing data works in real world dataset
 
 ## 🛠 Tools Used
 - MySQL
