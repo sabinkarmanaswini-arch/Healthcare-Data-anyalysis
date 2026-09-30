@@ -1,7 +1,7 @@
 # 🏥 Healthcare Data Analysis using MySQL
 
 ## 📌 Project Overview
-This project analyzes healthcare data using **MySQL** to extract meaningful insights from patient and medical records. It demonstrates SQL concepts from basic to intermediate level, making it suitable for a Data Analyst portfolio.
+This project analyzes healthcare data using **MySQL** to extract meaningful insights from patient and medical records. It demonstrates my SQL skills from begineer to intermediate level
 
 ## 🎯 Objectives
 - Analyze patient demographics and medical records.
